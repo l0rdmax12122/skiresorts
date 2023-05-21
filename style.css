@@ -1,0 +1,27 @@
+body {
+    background-image: url(./images/Snowboard1170.jpg);
+    background-size: cover;
+}
+.pages_list {
+    display: flex;
+    justify-content: end;
+    gap: 40px;
+    list-style: none;
+    margin-right: 100px;
+    margin-top: 30px;
+}
+
+.pages-link {
+    font-family: 'League Spartan', sans-serif;;
+    text-decoration: none ;
+    font-size: 22px;
+    color:rgb(0, 0, 0); 
+    margin: 20px;
+  } 
+
+.golovnatext {
+    font-size: 50px;
+    color: white;
+    font-family: 'Kanit', sans-serif;
+    margin: 150px;
+}
